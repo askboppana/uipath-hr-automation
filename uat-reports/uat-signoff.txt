@@ -1,0 +1,2 @@
+UAT: uipath-hr-automation STAGE
+Status: PENDING APPROVAL
